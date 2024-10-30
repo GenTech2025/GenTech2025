@@ -1,36 +1,34 @@
 <h1 align="center">Hi, I'm [Your Name] 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/sourav-roy-349259292">LinkedIn</a> •
   <a href="https://yourwebsite.com">Website</a> •
-  <a href="mailto:your.email@example.com">Email</a>
+  <a href="mailto:roysourav2023.uk@gmail.com">Email</a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I'm a [Your Job Title] passionate about [Technology/Industry Focus]. With a strong background in [Your Expertise Areas], I love creating solutions that [Benefit/Impact of your work]. I enjoy building clean, efficient, and user-friendly applications and contributing to open-source projects.
+I'm a recent data science graduate passionate about utilizing data science methods to investigate biology. With a strong background in both experimental biology and data science, I love creating solutions that bridge the gap between data science and biological sciences. I enjoy building clean, efficient, and user-friendly applications and contributing to open-source projects.
 
-- 🔭 I’m currently working on: [Current Project(s)]
-- 🌱 I’m currently learning: [Technologies/Skills]
-- 💬 Ask me about: [Topics]
-- 📫 How to reach me: [Email or LinkedIn]
-- ⚡ Fun fact: [Interesting personal fact]
+- 🔭 I’m currently working on: Upskilling my data science skills
+- 🌱 I’m currently learning: Machine Learning Engineering
+- 💬 Ask me about: Single Cell RNA Sequencing, Multiomics, Linux and Machine Learning
 
 ---
 
 ### 🛠 Skills
-- **Languages:** [Language 1, Language 2, Language 3]
-- **Frameworks:** [Framework 1, Framework 2]
-- **Tools:** [Tool 1, Tool 2]
-- **Other:** [Skill 1, Skill 2]
+- **Languages:** Python, R, MySQL, Bash
+- **Frameworks:** Django
+- **Tools:** Jupyter Notebook, R Markdown
+- **Other:** Collaboration, Research and Communication
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GenTech2025&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenTech2025&layout=compact" />
 </p>
 
 ---
