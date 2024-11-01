@@ -39,21 +39,3 @@ I'm a recent data science graduate passionate about utilizing data science metho
 | [**End-to-End Single Cell RNA Sequencing Data Analysis Pipeline**](https://github.com/GenTech2025/MSc_DSB_Dissertation_2024) | Brief description of the project and its purpose. | `R` `Bash` `R Markdown` | [Repo](https://github.com/yourusername/project1) • [Live](https://yourprojectlink.com) |
 | [**End-to-End Affymetrix Microarray Data Analysis Pipeline**](https://github.com/GenTech2025/Affymetrix_Microarray_Data_Analysis) | Brief description of the project and its purpose. | `R` `Bash` `R Markdown` | [Repo](https://github.com/yourusername/project2) • [Live](https://yourprojectlink.com) |
 | [**Analysis of publicly available data to get insights on the progression and impact of COVID-19 in Scotland**](https://github.com/GenTech2025/Scotland_Covid19_EDA) | Brief description of the project and its purpose. | `Python` `Jupyter Notebook`| [Repo](https://github.com/yourusername/project3) • [Live](https://yourprojectlink.com) |
-
----
-
-### 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://yourbloglink.com)
-- [Blog Post Title 2](https://yourbloglink.com)
-- [Blog Post Title 3](https://yourbloglink.com)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 📬 Connect with Me
-<p align="center">
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
