@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sourav-roy-349259292">LinkedIn</a> •
-  <a href="https://yourwebsite.com">Website</a> •
   <a href="mailto:roysourav2023.uk@gmail.com">Email</a>
 </p>
 
