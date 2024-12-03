@@ -35,6 +35,6 @@ I'm a recent data science graduate passionate about utilizing data science metho
 ### 📂 Featured Projects
 | Project | Description | Tech Stack | Links |
 | ------- | ----------- | ---------- | ----- |
-| [**End-to-End Single Cell RNA Sequencing Data Analysis Pipeline**](https://github.com/GenTech2025/MSc_DSB_Dissertation_2024) | Brief description of the project and its purpose. | `R` `Bash` `R Markdown` | [Repo](https://github.com/yourusername/project1) • [Live](https://yourprojectlink.com) |
-| [**End-to-End Affymetrix Microarray Data Analysis Pipeline**](https://github.com/GenTech2025/Affymetrix_Microarray_Data_Analysis) | Brief description of the project and its purpose. | `R` `Bash` `R Markdown` | [Repo](https://github.com/yourusername/project2) • [Live](https://yourprojectlink.com) |
-| [**Analysis of publicly available data to get insights on the progression and impact of COVID-19 in Scotland**](https://github.com/GenTech2025/Scotland_Covid19_EDA) | Brief description of the project and its purpose. | `Python` `Jupyter Notebook`| [Repo](https://github.com/yourusername/project3) • [Live](https://yourprojectlink.com) |
+| [**End-to-End Single Cell RNA Sequencing Data Analysis Pipeline**](https://github.com/GenTech2025/MSc_DSB_Dissertation_2024) | Brief description of the project and its purpose. | `R` `Bash` `R Markdown` | [Repo](https://github.com/yourusername/project1)|
+| [**End-to-End Affymetrix Microarray Data Analysis Pipeline**](https://github.com/GenTech2025/Affymetrix_Microarray_Data_Analysis) | Brief description of the project and its purpose. | `R` `Bash` `R Markdown` | [Repo](https://github.com/yourusername/project2)|
+| [**Analysis of publicly available data to get insights on the progression and impact of COVID-19 in Scotland**](https://github.com/GenTech2025/Scotland_Covid19_EDA) | Brief description of the project and its purpose. | `Python` `Jupyter Notebook`| [Repo](https://github.com/yourusername/project3)|
