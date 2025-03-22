@@ -11,7 +11,7 @@
 I'm a recent data science graduate passionate about utilizing data science methods to investigate biology. With a strong background in both experimental biology and data science, I love creating solutions that bridge the gap between data science and biological sciences. I enjoy building clean, efficient, and user-friendly applications and contributing to open-source projects.
 
 - 🔭 I’m currently working on: Upskilling my data science skills
-- 🌱 I’m currently learning: Machine Learning Engineering
+- 🌱 I’m currently learning: Data Engineering
 - 💬 Ask me about: Single Cell RNA Sequencing, Multiomics, Linux and Machine Learning
 
 ---
