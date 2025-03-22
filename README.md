@@ -24,14 +24,6 @@ I'm a recent data science graduate passionate about utilizing data science metho
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GenTech2025&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenTech2025&layout=compact" />
-</p>
-
----
-
 ### 📂 Featured Projects
 | Project | Description | Tech Stack | Links |
 | ------- | ----------- | ---------- | ----- |
